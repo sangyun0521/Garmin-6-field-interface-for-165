@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">식스 런</string>
+    <string id="Distance">거리</string>
+    <string id="AveragePace">평균 페이스</string>
+    <string id="LapPace">랩 페이스</string>
+    <string id="Pace">페이스</string>
+    <string id="ElapsedTime">경과 시간</string>
+    <string id="HeartRate">심박수</string>
+    <string id="UseOneField">1칸 화면을 사용하세요</string>
+</strings>

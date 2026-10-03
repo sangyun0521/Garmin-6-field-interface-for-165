@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">Six Run</string>
+    <string id="Distance">DISTANCE</string>
+    <string id="AveragePace">AVG PACE</string>
+    <string id="LapPace">LAP PACE</string>
+    <string id="Pace">PACE</string>
+    <string id="ElapsedTime">ELAPSED TIME</string>
+    <string id="HeartRate">HEART RATE</string>
+    <string id="UseOneField">Use 1-field page</string>
+</strings>
