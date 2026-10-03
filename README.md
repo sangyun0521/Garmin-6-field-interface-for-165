@@ -5,7 +5,7 @@ Forerunner 165와 Forerunner 165 Music을 위한 Connect IQ 러닝 데이터 필
 
 현재 버전: `0.1.0`
 
-![Six Run preview](preview.png)
+![Six Run preview](images/preview.png)
 
 ## 주요 기능
 
